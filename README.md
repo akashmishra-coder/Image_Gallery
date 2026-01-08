@@ -1,3 +1,7 @@
+project live ==> https://akashmishra-coder.github.io/Image_Gallery/
+
+
+
 # step by step creating project
     -create react app with vite
     -install tailwindcss for design
