@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+*{
+    font-family: "helvetica neue", helvetica, arial, sans-serif;
+}
+
+:root{
+    --c1:#0F2854;
+    --c2:#1C4D8D;
+    --c3:#4988C4;
+    --c4:#BDE8F5;
+}
